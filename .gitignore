@@ -1,0 +1,5 @@
+.env
+/.venv
+/downloades
+/.vscode
+/vector_db
